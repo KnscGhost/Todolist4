@@ -1,0 +1,63 @@
+
+.done{
+	text-decoration: strike
+}
+
+.color2{
+	color: red;
+	font-size :2em;
+}
+.privatetask{
+	background: #99ddff;
+}
+
+.backimg{
+	background: url("https://i.pinimg.com/736x/41/d1/b3/41d1b391a5d29e1b0a2bee3d511ee3af.jpg");
+	background-size: cover;
+}
+
+.backcol{
+	background-color:#e64747cc;
+
+}
+
+.bg-light{
+	background-color:#e64747cc;
+}
+.checked{
+	text-decoration: line-through;
+	color:grey;
+}body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.done{
+	text-decoration: strike
+}
+
+.color2{
+	color: red;
+	font-size :2em;
+}
+.privatetask{
+	background: #26b2f8;
+}
+
+.backimg{
+	background: url("https://c4.wallpaperflare.com/wallpaper/341/708/8/esdeath-esdeath-akame-ga-kill-akame-ga-kill-anime-girls-women-hd-wallpaper-preview.jpg");
+	background-size: cover;
+}
+
+.backcol{
+	background-color:#e64747cc;
+
+}
+
+.bg-light{
+	background-color:#e64747cc;
+}
+.checked{
+	text-decoration: line-through;
+	color:grey;
+}
